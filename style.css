@@ -1,0 +1,44 @@
+.container {
+    height: 150px;
+    background-image: linear-gradient(to bottom left , green , yellow , blue);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    font-size: 70px;
+}
+
+
+.button-holder {
+    margin: 0 auto;
+    height: 80px;
+    background-image: linear-gradient(to top right , orange , red );
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+a {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    box-shadow: 12px solid lightblue;
+    background-image: linear-gradient(to bottom right , rgb(193, 224, 20) , rgb(232, 120, 8) );
+    color: white;
+    font-size: 25px;
+    border: none;
+}
+
+
+  

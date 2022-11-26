@@ -1,0 +1,49 @@
+img{
+    width: 300px;
+    margin: 50px;
+  }
+
+  .img-holder {
+    margin-top: 120px;
+    height: 150px;
+    margin-bottom: 25px;
+  }
+  
+  img:hover{
+    width: 400px;
+    margin: 0;
+  }
+
+  .kosar-content {
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  }
+
+  a {
+    font-size: 100px;
+    color: red;
+  }
+
+  .other {
+    margin-top: 10px;
+    display: flex;
+    justify-content: right;
+    text-align: right;
+    align-items: right;
+}
+
+.bigger {
+    margin: 0 auto;
+    text-align: right;
+    justify-content: right;
+    align-items: right;
+    position: absolute;
+    font-size: 20px;
+}
+
+.kosar-content {
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
